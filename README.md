@@ -14,8 +14,10 @@
 
 ## Instructions on how to run :
 
-npm install
-node server.js
+1. npm install
+2. node server.js
+
+You can run this on localhost : 8080 .
 
 ============================
 
